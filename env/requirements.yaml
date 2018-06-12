@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.58
 - name: ttc-dashboard-ui
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.34
+  version: 0.0.35
 - name: ttc-infra-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.12
